@@ -1,1 +1,1 @@
-# streamlit_d6
+# Repository for 30 Days of Streamlit
